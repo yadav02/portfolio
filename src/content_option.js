@@ -2,7 +2,7 @@ const logotext = "SATYENDRA";
 const meta = {
   title: "Satyendra Singh",
   description:
-    "I’m Satyendra Singh Frontend stack devloper,currently working in New Delhi",
+    "I’m Satyendra Singh Frontend devloper,currently working in New Delhi",
 };
 
 const introdata = {
